@@ -6,6 +6,8 @@ The user clicks "generate password button" and then is prompted to enter between
 Technologies Used
 HTML, CSS, JavaScript
 
+The following link is to the deployed site: https://casanaa.github.io/Password-Generator/ 
+
 Image of Deployed Application
 
 ![image](https://github.com/casanaa/Password-Generator/assets/133182324/b64190aa-245c-4be0-a733-cee0e38f6be2)
