@@ -117,7 +117,8 @@ button[disabled] {
   border-radius: 6px;
   resize: none;
   overflow: hidden;
-  background-color: black;
+  background-color: rgb(247, 244, 244);
+  
 }
 
 @media (max-width: 690px) {
