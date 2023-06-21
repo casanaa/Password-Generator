@@ -14,7 +14,7 @@ body,
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
+  background-color: #57a9fa;
 }
 
 .wrapper {
@@ -31,7 +31,7 @@ header {
 }
 
 .card {
-  background-color: hsl(0, 0%, 100%);
+  background-color: hsl(214, 73%, 86%);
   border-radius: 5px;
   border-width: 1px;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
@@ -52,6 +52,7 @@ header {
 
 .card-body {
   min-height: 100px;
+  
 }
 
 .card-footer {
@@ -88,7 +89,7 @@ header {
   cursor: pointer;
 }
 
-button[enabled] {
+button[disabled] {
   cursor: default;
   background: #c0c7cf;
 }
@@ -112,10 +113,11 @@ button[enabled] {
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
+  border: 2px dashed #84f504;
   border-radius: 6px;
   resize: none;
   overflow: hidden;
+  background-color: black;
 }
 
 @media (max-width: 690px) {
@@ -127,6 +129,7 @@ button[enabled] {
 
   #password {
     font-size: 1rem;
+    font-color: rgb(7, 247, 7);
   }
 }
 
