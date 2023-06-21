@@ -129,7 +129,7 @@ button[disabled] {
 
   #password {
     font-size: 1rem;
-    font-color: rgb(7, 247, 7);
+    accent-color: rgb(7, 247, 7);
   }
 }
 
